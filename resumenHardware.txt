@@ -1,0 +1,5 @@
+1-Memoria RAM: Almacena temporalmente datos y programas en uso.
+
+2-Memoria ROM: Contiene información pregrabada y no modificable por el usuario.
+
+3-Memoria caché: Almacena datos frecuentemente utilizados para mejorar el rendimiento del sistema.
